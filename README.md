@@ -1,2 +1,2 @@
-# Variational_Autoencoder_for_Sound_Generation
+# Variational Autoencoder for Sound Generation
 A neural network for generating sound using Variational Autoencoders
